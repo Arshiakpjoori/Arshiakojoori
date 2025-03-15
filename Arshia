@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arshia's Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to Arshia's Website</h1>
+        </header>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hi! I'm Arshia. I specialize in video editing, photography, and AI content creation. Here, you can see my work and learn more about me.</p>
+        </section>
+        <section id="portfolio">
+            <h2>My Work</h2>
+            <p>Check out my latest projects and creations below:</p>
+            <ul>
+                <li>Project 1 - Video Editing</li>
+                <li>Project 2 - Photography</li>
+                <li>Project 3 - AI Content Creation</li>
+            </ul>
+        </section>
+        <footer>
+            <p>Contact me at: your-email@example.com</p>
+        </footer>
+    </div>
+</body>
+</html>
